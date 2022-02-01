@@ -1,6 +1,6 @@
 title: ankita.github.io
-logo: https://aj-30.github.io/ankita.github.io/assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+logo: "https://aj-30.github.io/ankita.github.io/assets/img/logo.png"
+description: "Minimal is a theme for GitHub Pages."
 remote_theme: pages-themes/minimal@v0.2.0
 show_downloads: true
 google_analytics:
