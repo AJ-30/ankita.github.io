@@ -10,7 +10,7 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-## Deep RL Researcher (IIT Mandi) 
+<!-- ## Deep RL Researcher (IIT Mandi) 
 
 ## ML Consultant (DJT)
 
@@ -18,7 +18,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 ## Project Associate (IIT Mandi) 
 
-## Data Scientist (Tensr.AI)
+## Data Scientist (Tensr.AI) -->
 
 
 
