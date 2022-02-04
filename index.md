@@ -6,13 +6,13 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
+<!-- There should be whitespace between paragraphs.
 
 Hi, My name is Ankita Joshi. I love to work on problems in Deep Learning, and Reinforcement Learning. Currently I am working at IIT Mandi MANAS Lab under Dr. Aditya Nigam. 
 
 During a free headspace, I like to dabble into many activitites like doodle in my sketchbook, dance my heart out, talk on philosophical ideas, or binge a TV series.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project. -->
 
 # Header 1
 
