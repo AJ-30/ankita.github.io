@@ -14,7 +14,7 @@ During a free headspace, I like to dabble into many activitites like doodle in m
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project. -->
 
-# Header 1
+# Skills
 
 LOL changed pt2. This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
